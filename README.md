@@ -3,12 +3,14 @@ Tron lightcycles done in ArmA 3
 
 ## Possible mission name puns:
 * CluLess
+* ExCluded
+* PaTRONs
 * PaTRONizing
 * Viva de-resolution
 * End of line
 * Tron.0
-* Game Grid
-* Some Light Biking
+* Grid Lock
+* Traveling Light
 
 ## Tag lines:
 * You want games? I'll give you games...
